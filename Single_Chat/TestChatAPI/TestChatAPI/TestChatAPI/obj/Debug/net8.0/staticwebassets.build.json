@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "hkmGz6luZPW7rJ1a/DviIqDWxYGVD5Kud/jeBUL8qGk=",
+  "Source": "TestChatAPI",
+  "BasePath": "_content/TestChatAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
