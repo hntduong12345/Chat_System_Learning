@@ -1,0 +1,15 @@
+D:\CODE\Self_Created_Project\ChatApp\BE\ChatApp\ChatApp.Infrastructure\bin\Debug\net8.0\ChatApp.Infrastructure.deps.json
+D:\CODE\Self_Created_Project\ChatApp\BE\ChatApp\ChatApp.Infrastructure\bin\Debug\net8.0\ChatApp.Infrastructure.dll
+D:\CODE\Self_Created_Project\ChatApp\BE\ChatApp\ChatApp.Infrastructure\bin\Debug\net8.0\ChatApp.Infrastructure.pdb
+D:\CODE\Self_Created_Project\ChatApp\BE\ChatApp\ChatApp.Infrastructure\bin\Debug\net8.0\ChatApp.Domain.dll
+D:\CODE\Self_Created_Project\ChatApp\BE\ChatApp\ChatApp.Infrastructure\bin\Debug\net8.0\ChatApp.Domain.pdb
+D:\CODE\Self_Created_Project\ChatApp\BE\ChatApp\ChatApp.Infrastructure\obj\Debug\net8.0\ChatApp.Infrastructure.csproj.AssemblyReference.cache
+D:\CODE\Self_Created_Project\ChatApp\BE\ChatApp\ChatApp.Infrastructure\obj\Debug\net8.0\ChatApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\Self_Created_Project\ChatApp\BE\ChatApp\ChatApp.Infrastructure\obj\Debug\net8.0\ChatApp.Infrastructure.AssemblyInfoInputs.cache
+D:\CODE\Self_Created_Project\ChatApp\BE\ChatApp\ChatApp.Infrastructure\obj\Debug\net8.0\ChatApp.Infrastructure.AssemblyInfo.cs
+D:\CODE\Self_Created_Project\ChatApp\BE\ChatApp\ChatApp.Infrastructure\obj\Debug\net8.0\ChatApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\CODE\Self_Created_Project\ChatApp\BE\ChatApp\ChatApp.Infrastructure\obj\Debug\net8.0\ChatApp..20B20D2C.Up2Date
+D:\CODE\Self_Created_Project\ChatApp\BE\ChatApp\ChatApp.Infrastructure\obj\Debug\net8.0\ChatApp.Infrastructure.dll
+D:\CODE\Self_Created_Project\ChatApp\BE\ChatApp\ChatApp.Infrastructure\obj\Debug\net8.0\refint\ChatApp.Infrastructure.dll
+D:\CODE\Self_Created_Project\ChatApp\BE\ChatApp\ChatApp.Infrastructure\obj\Debug\net8.0\ChatApp.Infrastructure.pdb
+D:\CODE\Self_Created_Project\ChatApp\BE\ChatApp\ChatApp.Infrastructure\obj\Debug\net8.0\ref\ChatApp.Infrastructure.dll

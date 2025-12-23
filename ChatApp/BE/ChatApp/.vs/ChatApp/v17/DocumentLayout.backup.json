@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\Self_Created_Project\\ChatApp\\BE\\ChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C05096D4-EBE8-4411-B755-4BDCA172C7F3}|ChatApp.Api\\ChatApp.Api.csproj|d:\\code\\self_created_project\\chatapp\\be\\chatapp\\chatapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C05096D4-EBE8-4411-B755-4BDCA172C7F3}|ChatApp.Api\\ChatApp.Api.csproj|solutionrelative:chatapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CODE\\Self_Created_Project\\ChatApp\\BE\\ChatApp\\ChatApp.Domain\\Migrations\\20251128035254_DBInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatApp.Domain\\Migrations\\20251128035254_DBInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05096D4-EBE8-4411-B755-4BDCA172C7F3}|ChatApp.Api\\ChatApp.Api.csproj|d:\\code\\self_created_project\\chatapp\\be\\chatapp\\chatapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05096D4-EBE8-4411-B755-4BDCA172C7F3}|ChatApp.Api\\ChatApp.Api.csproj|solutionrelative:chatapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05096D4-EBE8-4411-B755-4BDCA172C7F3}|ChatApp.Api\\ChatApp.Api.csproj|d:\\code\\self_created_project\\chatapp\\be\\chatapp\\chatapp.api\\extensions\\dependencyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05096D4-EBE8-4411-B755-4BDCA172C7F3}|ChatApp.Api\\ChatApp.Api.csproj|solutionrelative:chatapp.api\\extensions\\dependencyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1DD6CE-9796-4E5A-9807-E7D62DE85306}|ChatApp.Domain\\ChatApp.Domain.csproj|d:\\code\\self_created_project\\chatapp\\be\\chatapp\\chatapp.domain\\entities\\chatappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA1DD6CE-9796-4E5A-9807-E7D62DE85306}|ChatApp.Domain\\ChatApp.Domain.csproj|solutionrelative:chatapp.domain\\entities\\chatappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CODE\\Self_Created_Project\\ChatApp\\BE\\ChatApp\\ChatApp.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatApp.Api\\appsettings.json",
+              "ToolTip": "D:\\CODE\\Self_Created_Project\\ChatApp\\BE\\ChatApp\\ChatApp.Api\\appsettings.json*",
+              "RelativeToolTip": "ChatApp.Api\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-28T03:53:19.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20251128035254_DBInit.cs",
+              "DocumentMoniker": "D:\\CODE\\Self_Created_Project\\ChatApp\\BE\\ChatApp\\ChatApp.Domain\\Migrations\\20251128035254_DBInit.cs",
+              "RelativeDocumentMoniker": "ChatApp.Domain\\Migrations\\20251128035254_DBInit.cs",
+              "ToolTip": "D:\\CODE\\Self_Created_Project\\ChatApp\\BE\\ChatApp\\ChatApp.Domain\\Migrations\\20251128035254_DBInit.cs",
+              "RelativeToolTip": "ChatApp.Domain\\Migrations\\20251128035254_DBInit.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T03:52:55.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\Self_Created_Project\\ChatApp\\BE\\ChatApp\\ChatApp.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ChatApp.Api\\Program.cs",
+              "ToolTip": "D:\\CODE\\Self_Created_Project\\ChatApp\\BE\\ChatApp\\ChatApp.Api\\Program.cs",
+              "RelativeToolTip": "ChatApp.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T03:50:37.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyServices.cs",
+              "DocumentMoniker": "D:\\CODE\\Self_Created_Project\\ChatApp\\BE\\ChatApp\\ChatApp.Api\\Extensions\\DependencyServices.cs",
+              "RelativeDocumentMoniker": "ChatApp.Api\\Extensions\\DependencyServices.cs",
+              "ToolTip": "D:\\CODE\\Self_Created_Project\\ChatApp\\BE\\ChatApp\\ChatApp.Api\\Extensions\\DependencyServices.cs",
+              "RelativeToolTip": "ChatApp.Api\\Extensions\\DependencyServices.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T03:49:01.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatAppDbContext.cs",
+              "DocumentMoniker": "D:\\CODE\\Self_Created_Project\\ChatApp\\BE\\ChatApp\\ChatApp.Domain\\Entities\\ChatAppDbContext.cs",
+              "RelativeDocumentMoniker": "ChatApp.Domain\\Entities\\ChatAppDbContext.cs",
+              "ToolTip": "D:\\CODE\\Self_Created_Project\\ChatApp\\BE\\ChatApp\\ChatApp.Domain\\Entities\\ChatAppDbContext.cs",
+              "RelativeToolTip": "ChatApp.Domain\\Entities\\ChatAppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T03:47:54.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 241,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1442,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+.chat-page {
+  display: flex;
+  height: 100vh;
+  background: #f9fafb;
+}
+
+.dark-mode .chat-page {
+  background: #111827;
+}
+
+@media (max-width: 768px) {
+  .chat-page {
+    flex-direction: column;
+  }
+}
